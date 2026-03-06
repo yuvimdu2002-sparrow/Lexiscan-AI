@@ -266,7 +266,7 @@ def plot_model_architecture():
             bbox=dict(boxstyle='round', facecolor='#f0e6ff', edgecolor='#8e44ad'))
 
     plt.tight_layout()
-    path = "results/week2_model_architecture.png"
+    path = "results/model_architecture.png"
     plt.savefig(path, dpi=120, bbox_inches='tight')
     plt.close()
     print(f"  Saved: {path}")
@@ -299,7 +299,7 @@ def plot_learning_curves(history):
     axes[1].set_ylim([0.5, 1.02])
 
     plt.tight_layout()
-    path = "results/week2_learning_curves.png"
+    path = "results/learning_curves.png"
     plt.savefig(path, dpi=120, bbox_inches='tight')
     plt.close()
     print(f"  Saved: {path}")
@@ -335,7 +335,7 @@ def plot_f1_scores(f1_results):
     ax.axhline(y=0.9, color='purple', linestyle='--', alpha=0.5, label='Target (0.90)')
 
     plt.tight_layout()
-    path = "results/week2_f1_scores.png"
+    path = "results/f1_scores.png"
     plt.savefig(path, dpi=120, bbox_inches='tight')
     plt.close()
     print(f"  Saved: {path}")
