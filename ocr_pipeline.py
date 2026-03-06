@@ -36,9 +36,8 @@ RESULTS_DIR = "results"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 
 
-# ─────────────────────────────────────────────
 # OCR PIPELINE (Tesseract)
-# ─────────────────────────────────────────────
+
 class OCRPipeline:
     """
     Tesseract OCR pipeline for PDF contracts.
@@ -149,9 +148,9 @@ class OCRPipeline:
         return results
 
 
-# ─────────────────────────────────────────────
+
 # TEXT QUALITY ANALYSIS
-# ─────────────────────────────────────────────
+
 def analyze_text_quality(ocr_results):
     """Compute text quality metrics across processed documents."""
     metrics = {
@@ -173,9 +172,9 @@ def analyze_text_quality(ocr_results):
     return summary, metrics
 
 
-# ─────────────────────────────────────────────
+
 # VISUALIZATIONS
-# ─────────────────────────────────────────────
+
 def visualize_ocr_pipeline():
     """Diagram of the OCR pipeline stages."""
     fig, ax = plt.subplots(figsize=(14, 5))
@@ -311,14 +310,11 @@ def visualize_entity_preview(contracts):
     print(f"  Saved: {path}")
 
 
-# ─────────────────────────────────────────────
+
 # MAIN
-# ─────────────────────────────────────────────
+
 if __name__ == "__main__":
-    print("=" * 55)
     print("  WEEK 1: DATA ACQUISITION & OCR PIPELINE")
-    print("  LexiScan Auto - Legal Contract NER")
-    print("=" * 55)
     print(f"  Tesseract available : {'Yes' if TESSERACT_AVAILABLE else 'No (using text fallback)'}")
 
     # Load contracts

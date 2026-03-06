@@ -1,5 +1,5 @@
 """
-Week 2: Core NER Modeling + Transfer Learning — LexiScan Auto
+Core NER Modeling + Transfer Learning — LexiScan Auto
 BiDirectional LSTM (TensorFlow/Keras) or fine-tune BERT/GloVe.
 Key metric: F1-Score on entity extraction.
 Annotation using Doccano-compatible format.
@@ -47,9 +47,9 @@ ENTITY_COLORS = {
 }
 
 
-# ─────────────────────────────────────────────
+
 # TOKENIZATION + BIO TAGGING
-# ─────────────────────────────────────────────
+
 def tokenize_and_tag(text, entities):
     """Convert raw text + entity spans to BIO-tagged token sequences."""
     tokens = re.findall(r'\S+|\n', text)
@@ -117,9 +117,9 @@ def prepare_sequences(contracts, max_len=128, vocab=None):
     return np.array(token_ids), np.array(label_ids), vocab
 
 
-# ─────────────────────────────────────────────
+
 # BiLSTM-CRF NER MODEL
-# ─────────────────────────────────────────────
+
 def build_bilstm_ner(vocab_size, num_labels, embed_dim=64, lstm_units=128, max_len=128):
     """
     Bidirectional LSTM model for sequence labeling (NER).
@@ -150,9 +150,8 @@ def build_bilstm_ner(vocab_size, num_labels, embed_dim=64, lstm_units=128, max_l
     return model
 
 
-# ─────────────────────────────────────────────
 # F1-SCORE COMPUTATION (token-level)
-# ─────────────────────────────────────────────
+
 def compute_f1(y_true_flat, y_pred_flat, label2id=LABEL2ID):
     """Compute per-entity-type F1, Precision, Recall (excluding 'O' label)."""
     entity_types = ["PARTY", "DATE", "AMOUNT", "TERMINATION_CLAUSE"]
@@ -207,9 +206,8 @@ def generate_mock_f1_scores():
     }
 
 
-# ─────────────────────────────────────────────
 # DOCCANO ANNOTATION FORMAT EXPORT
-# ─────────────────────────────────────────────
+
 def export_doccano_format(contracts, output_path):
     """Export annotations in Doccano JSONL format for re-annotation."""
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -226,9 +224,8 @@ def export_doccano_format(contracts, output_path):
     print(f"  Saved Doccano JSONL: {output_path}")
 
 
-# ─────────────────────────────────────────────
 # VISUALIZATIONS
-# ─────────────────────────────────────────────
+
 def plot_model_architecture():
     """Diagram of BiLSTM NER architecture."""
     fig, ax = plt.subplots(figsize=(12, 8))
@@ -344,14 +341,9 @@ def plot_f1_scores(f1_results):
     print(f"  Saved: {path}")
 
 
-# ─────────────────────────────────────────────
 # MAIN
-# ─────────────────────────────────────────────
+
 if __name__ == "__main__":
-    print("=" * 55)
-    print("  WEEK 2: CORE NER MODELING")
-    print("  LexiScan Auto - Legal Contract NER")
-    print("=" * 55)
 
     # Load data
     train_path = "data/train/contracts_train.json"
@@ -412,4 +404,3 @@ if __name__ == "__main__":
         plot_f1_scores(f1_results)
 
         print(f"\n  Macro F1: {f1_results['macro_avg']['f1']:.3f}")
-        print("\n✅ Week 2 complete!")
