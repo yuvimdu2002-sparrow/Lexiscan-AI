@@ -222,7 +222,7 @@ def visualize_ocr_pipeline():
                     arrowprops=dict(arrowstyle='->', color='#aaa', lw=1))
 
     plt.tight_layout()
-    path = "results/week1_ocr_pipeline.png"
+    path = "results/ocr_pipeline.png"
     plt.savefig(path, dpi=120, bbox_inches='tight')
     plt.close()
     print(f"  Saved: {path}")
@@ -273,7 +273,7 @@ def visualize_text_quality(metrics):
     axes[2].grid(alpha=0.3)
 
     plt.tight_layout()
-    path = "results/week1_ocr_quality.png"
+    path = "results/ocr_quality.png"
     plt.savefig(path, dpi=120, bbox_inches='tight')
     plt.close()
     print(f"  Saved: {path}")
@@ -304,7 +304,7 @@ def visualize_entity_preview(contracts):
     ax.grid(axis='y', alpha=0.3)
 
     plt.tight_layout()
-    path = "results/week1_entity_distribution.png"
+    path = "results/entity_distribution.png"
     plt.savefig(path, dpi=120, bbox_inches='tight')
     plt.close()
     print(f"  Saved: {path}")
@@ -314,7 +314,7 @@ def visualize_entity_preview(contracts):
 # MAIN
 
 if __name__ == "__main__":
-    print("  WEEK 1: DATA ACQUISITION & OCR PIPELINE")
+    print("DATA ACQUISITION & OCR PIPELINE")
     print(f"  Tesseract available : {'Yes' if TESSERACT_AVAILABLE else 'No (using text fallback)'}")
 
     # Load contracts
@@ -334,11 +334,11 @@ if __name__ == "__main__":
         summary, metrics = analyze_text_quality(ocr_results)
 
         # Save OCR results
-        with open("results/week1_quality_summary.json", "w") as f:
+        with open("results/quality_summary.json", "w") as f:
             os.makedirs("data/ocr_output", exist_ok=True)
             json.dump(ocr_results[:10], f, indent=2)  # save sample
 
-        with open("results/week1_quality_summary.json", "w") as f:
+        with open("results/quality_summary.json", "w") as f:
             json.dump(summary, f, indent=2)
 
         print("\n📊 Generating visualizations...")
@@ -346,4 +346,3 @@ if __name__ == "__main__":
         visualize_text_quality(metrics)
         visualize_entity_preview(contracts)
 
-    print("\n✅ Week 1 complete!")
