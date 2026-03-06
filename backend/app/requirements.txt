@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-transformers
-torch
-pytesseract
-pdf2image
-pdfplumber
-python-multipart
-python-jose

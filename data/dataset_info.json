@@ -1,0 +1,21 @@
+{
+  "name": "LexiScan Auto - Legal Contract NER Dataset",
+  "total_contracts": 300,
+  "splits": {
+    "train": 210,
+    "val": 45,
+    "test": 45
+  },
+  "entity_labels": [
+    "PARTY",
+    "DATE",
+    "AMOUNT",
+    "TERMINATION_CLAUSE"
+  ],
+  "total_entity_mentions": {
+    "PARTY": 600,
+    "DATE": 1500,
+    "AMOUNT": 900,
+    "TERMINATION_CLAUSE": 300
+  }
+}
