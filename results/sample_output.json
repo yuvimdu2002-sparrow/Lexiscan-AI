@@ -1,0 +1,159 @@
+{
+  "document_id": "contract_0128",
+  "processing_time_ms": 68.08,
+  "word_count": 481,
+  "entities": {
+    "PARTY": [
+      {
+        "text": "CONSULTING AGREEMENT This Consulting",
+        "start": 0,
+        "end": 36,
+        "confidence": 0.909
+      },
+      {
+        "text": "by and between BlueStar Financial Group",
+        "start": 126,
+        "end": 165,
+        "confidence": 0.854
+      },
+      {
+        "text": "and Quantum Legal Solutions",
+        "start": 178,
+        "end": 205,
+        "confidence": 0.881
+      },
+      {
+        "text": "Party A desires to engage Party B to provide intellectual property management",
+        "start": 280,
+        "end": 357,
+        "confidence": 0.921
+      },
+      {
+        "text": "Party B is qualified and willing to provide such services",
+        "start": 382,
+        "end": 439,
+        "confidence": 0.854
+      },
+      {
+        "text": "SERVICES Party B shall provide intellectual property management",
+        "start": 836,
+        "end": 899,
+        "confidence": 0.878
+      },
+      {
+        "text": "In consideration for the services",
+        "start": 1039,
+        "end": 1072,
+        "confidence": 0.941
+      },
+      {
+        "text": "for ongoing advisory services",
+        "start": 1394,
+        "end": 1423,
+        "confidence": 0.926
+      },
+      {
+        "text": "BLUESTAR FINANCIAL GROUP QUANTUM LEGAL SOLUTIONS",
+        "start": 2921,
+        "end": 2969,
+        "confidence": 0.881
+      }
+    ],
+    "DATE": [
+      {
+        "text": "March 23, 2025",
+        "start": 87,
+        "end": 101,
+        "confidence": 0.94
+      },
+      {
+        "text": "April 03, 2025",
+        "start": 662,
+        "end": 676,
+        "confidence": 0.854
+      },
+      {
+        "text": "13 March 2027",
+        "start": 739,
+        "end": 752,
+        "confidence": 0.953
+      },
+      {
+        "text": "March 23, 2025",
+        "start": 3142,
+        "end": 3156,
+        "confidence": 0.889
+      },
+      {
+        "text": "March 23, 2025",
+        "start": 3163,
+        "end": 3177,
+        "confidence": 0.881
+      }
+    ],
+    "AMOUNT": [
+      {
+        "text": "$2,500,000",
+        "start": 1124,
+        "end": 1134,
+        "confidence": 0.945
+      },
+      {
+        "text": "$250,000",
+        "start": 1200,
+        "end": 1208,
+        "confidence": 0.975
+      },
+      {
+        "text": "$675,000",
+        "start": 1385,
+        "end": 1393,
+        "confidence": 0.862
+      }
+    ],
+    "TERMINATION_CLAUSE": [
+      {
+        "text": " TERMINATION Either party may terminate without cause upon sixty (60) days written notice to the other party.",
+        "start": 1973,
+        "end": 2082,
+        "confidence": 0.963
+      },
+      {
+        "text": "Either party may terminate without cause upon sixty (60) days written notice to the other party.",
+        "start": 1986,
+        "end": 2082,
+        "confidence": 0.932
+      }
+    ]
+  },
+  "entity_count": 19,
+  "structured_output": {
+    "parties": [
+      "CONSULTING AGREEMENT This Consulting",
+      "by and between BlueStar Financial Group",
+      "and Quantum Legal Solutions",
+      "Party A desires to engage Party B to provide intellectual property management",
+      "Party B is qualified and willing to provide such services",
+      "SERVICES Party B shall provide intellectual property management",
+      "In consideration for the services",
+      "for ongoing advisory services",
+      "BLUESTAR FINANCIAL GROUP QUANTUM LEGAL SOLUTIONS"
+    ],
+    "dates": [
+      "March 23, 2025",
+      "April 03, 2025",
+      "13 March 2027",
+      "March 23, 2025",
+      "March 23, 2025"
+    ],
+    "amounts": [
+      "$2,500,000",
+      "$250,000",
+      "$675,000"
+    ],
+    "termination_clauses": [
+      " TERMINATION Either party may terminate without cause upon sixty (60) days written notice to the other party.",
+      "Either party may terminate without cause upon sixty (60) days written notice to the other party."
+    ]
+  }
+}

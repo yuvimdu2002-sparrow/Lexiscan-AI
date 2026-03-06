@@ -1,0 +1,474 @@
+{
+  "aggregate": {
+    "total": 1100,
+    "valid": 1046,
+    "invalid": 54,
+    "by_type": {
+      "PARTY": {
+        "valid": 200,
+        "invalid": 0
+      },
+      "DATE": {
+        "valid": 464,
+        "invalid": 36
+      },
+      "AMOUNT": {
+        "valid": 282,
+        "invalid": 18
+      },
+      "TERMINATION_CLAUSE": {
+        "valid": 100,
+        "invalid": 0
+      }
+    }
+  },
+  "sample_results": [
+    {
+      "id": "contract_0000",
+      "validated_entities": [
+        {
+          "start": 108,
+          "end": 124,
+          "label": "DATE",
+          "text": "January 31, 2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-01-31",
+          "was_modified": true
+        },
+        {
+          "start": 165,
+          "end": 188,
+          "label": "PARTY",
+          "text": "Meridian Law Associates",
+          "valid": true,
+          "status": "VALID_COMPANY",
+          "error": null,
+          "normalized_text": "Meridian Law Associates",
+          "was_modified": false
+        },
+        {
+          "start": 205,
+          "end": 230,
+          "label": "PARTY",
+          "text": "Apex Capital Partners LLC",
+          "valid": true,
+          "status": "VALID_COMPANY",
+          "error": null,
+          "normalized_text": "Apex Capital Partners LLC",
+          "was_modified": false
+        },
+        {
+          "start": 690,
+          "end": 706,
+          "label": "DATE",
+          "text": "04 February 2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-02-04",
+          "was_modified": true
+        },
+        {
+          "start": 770,
+          "end": 783,
+          "label": "DATE",
+          "text": "18 March 2024",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2024-03-18",
+          "was_modified": true
+        },
+        {
+          "start": 1159,
+          "end": 1167,
+          "label": "AMOUNT",
+          "text": "$250,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$250,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 1234,
+          "end": 1242,
+          "label": "AMOUNT",
+          "text": "$850,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$850,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 1421,
+          "end": 1429,
+          "label": "AMOUNT",
+          "text": "$125,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$125,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 2033,
+          "end": 2115,
+          "label": "TERMINATION_CLAUSE",
+          "text": "This Agreement may be terminated immediately upon material breach by either party.",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "This Agreement may be terminated immediately upon material breach by either party.",
+          "was_modified": false
+        },
+        {
+          "start": 3239,
+          "end": 3255,
+          "label": "DATE",
+          "text": "TBD (to be confirmed)",
+          "valid": false,
+          "status": "INVALID_DATE_FORMAT",
+          "error": "'TBD (to be confirmed)' does not match any accepted date format",
+          "normalized_text": "TBD (to be confirmed)",
+          "was_modified": false
+        },
+        {
+          "start": 3276,
+          "end": 3292,
+          "label": "DATE",
+          "text": "January 31, 2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-01-31",
+          "was_modified": true
+        }
+      ],
+      "stats": {
+        "total": 11,
+        "valid": 10,
+        "invalid": 1,
+        "by_type": {
+          "DATE": {
+            "valid": 4,
+            "invalid": 1
+          },
+          "PARTY": {
+            "valid": 2,
+            "invalid": 0
+          },
+          "AMOUNT": {
+            "valid": 3,
+            "invalid": 0
+          },
+          "TERMINATION_CLAUSE": {
+            "valid": 1,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "contract_0001",
+      "validated_entities": [
+        {
+          "start": 82,
+          "end": 92,
+          "label": "DATE",
+          "text": "03/25/2022",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2022-03-25",
+          "was_modified": true
+        },
+        {
+          "start": 133,
+          "end": 157,
+          "label": "PARTY",
+          "text": "Titan Financial Services",
+          "valid": true,
+          "status": "VALID_COMPANY",
+          "error": null,
+          "normalized_text": "Titan Financial Services",
+          "was_modified": false
+        },
+        {
+          "start": 174,
+          "end": 199,
+          "label": "PARTY",
+          "text": "Apex Capital Partners LLC",
+          "valid": true,
+          "status": "VALID_COMPANY",
+          "error": null,
+          "normalized_text": "Apex Capital Partners LLC",
+          "was_modified": false
+        },
+        {
+          "start": 672,
+          "end": 682,
+          "label": "DATE",
+          "text": "2022-04-06",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2022-04-06",
+          "was_modified": false
+        },
+        {
+          "start": 746,
+          "end": 756,
+          "label": "DATE",
+          "text": "2023-12-06",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-12-06",
+          "was_modified": false
+        },
+        {
+          "start": 1145,
+          "end": 1153,
+          "label": "AMOUNT",
+          "text": "$500,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$500,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 1220,
+          "end": 1230,
+          "label": "AMOUNT",
+          "text": "$3,000,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$3,000,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 1409,
+          "end": 1417,
+          "label": "AMOUNT",
+          "text": "$425,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$425,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 2021,
+          "end": 2105,
+          "label": "TERMINATION_CLAUSE",
+          "text": "Either party may terminate this contract with ninety (90) days prior written notice.",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "Either party may terminate this contract with ninety (90) days prior written notice.",
+          "was_modified": false
+        },
+        {
+          "start": 3242,
+          "end": 3252,
+          "label": "DATE",
+          "text": "03/25/2022",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2022-03-25",
+          "was_modified": true
+        },
+        {
+          "start": 3273,
+          "end": 3283,
+          "label": "DATE",
+          "text": "03/25/2022",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2022-03-25",
+          "was_modified": true
+        }
+      ],
+      "stats": {
+        "total": 11,
+        "valid": 11,
+        "invalid": 0,
+        "by_type": {
+          "DATE": {
+            "valid": 5,
+            "invalid": 0
+          },
+          "PARTY": {
+            "valid": 2,
+            "invalid": 0
+          },
+          "AMOUNT": {
+            "valid": 3,
+            "invalid": 0
+          },
+          "TERMINATION_CLAUSE": {
+            "valid": 1,
+            "invalid": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "contract_0002",
+      "validated_entities": [
+        {
+          "start": 90,
+          "end": 100,
+          "label": "DATE",
+          "text": "10/10/2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-10-10",
+          "was_modified": true
+        },
+        {
+          "start": 141,
+          "end": 167,
+          "label": "PARTY",
+          "text": "Global Trade Ventures Ltd.",
+          "valid": true,
+          "status": "VALID_COMPANY",
+          "error": null,
+          "normalized_text": "Global Trade Ventures Ltd.",
+          "was_modified": false
+        },
+        {
+          "start": 184,
+          "end": 207,
+          "label": "PARTY",
+          "text": "Redwood Equity Partners",
+          "valid": true,
+          "status": "VALID_COMPANY",
+          "error": null,
+          "normalized_text": "Redwood Equity Partners",
+          "was_modified": false
+        },
+        {
+          "start": 667,
+          "end": 683,
+          "label": "DATE",
+          "text": "October 12, 2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-10-12",
+          "was_modified": true
+        },
+        {
+          "start": 747,
+          "end": 757,
+          "label": "DATE",
+          "text": "07/12/2024",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2024-07-12",
+          "was_modified": true
+        },
+        {
+          "start": 1133,
+          "end": 1141,
+          "label": "AMOUNT",
+          "text": "$750,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$750,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 1208,
+          "end": 1216,
+          "label": "AMOUNT",
+          "text": "$125,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$125,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 1395,
+          "end": 1405,
+          "label": "AMOUNT",
+          "text": "$2,500,000",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "$2,500,000.00",
+          "was_modified": true
+        },
+        {
+          "start": 2009,
+          "end": 2084,
+          "label": "TERMINATION_CLAUSE",
+          "text": "This Agreement may be terminated by mutual written consent of both parties.",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "This Agreement may be terminated by mutual written consent of both parties.",
+          "was_modified": false
+        },
+        {
+          "start": 3221,
+          "end": 3231,
+          "label": "DATE",
+          "text": "10/10/2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-10-10",
+          "was_modified": true
+        },
+        {
+          "start": 3252,
+          "end": 3262,
+          "label": "DATE",
+          "text": "10/10/2023",
+          "valid": true,
+          "status": "VALID",
+          "error": null,
+          "normalized_text": "2023-10-10",
+          "was_modified": true
+        }
+      ],
+      "stats": {
+        "total": 11,
+        "valid": 11,
+        "invalid": 0,
+        "by_type": {
+          "DATE": {
+            "valid": 5,
+            "invalid": 0
+          },
+          "PARTY": {
+            "valid": 2,
+            "invalid": 0
+          },
+          "AMOUNT": {
+            "valid": 3,
+            "invalid": 0
+          },
+          "TERMINATION_CLAUSE": {
+            "valid": 1,
+            "invalid": 0
+          }
+        }
+      }
+    }
+  ]
+}
