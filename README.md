@@ -25,23 +25,34 @@ A complete Legal Named Entity Recognition (NER) system that extracts key informa
 
 ```text
 
-legal-ner-system/
+Lexiscan-AI
 │
 ├── app/
-│   ├── main.py              # FastAPI app
-│   ├── ocr.py               # OCR extraction
-│   ├── preprocess.py        # Text cleaning
-│   ├── postprocess.py       # Entity cleaning & filtering
-│   │
+│   ├── main.py
+│   ├── ocr.py
+│   ├── preprocess.py
 │   ├── ner/
-│   │   ├── spacy_model.py   # spaCy NER
-│   │   ├── bert_model.py    # BERT NER (optional)
+│   │   ├── spacy_model.py
+│   │   ├── bert_model.py
+│   ├── validation.py
+│   ├── postprocess.py
 │
-├── uploads/                 # Uploaded files
+├── data/
+│
+├── model/
+│   └── spacy_model/
+│
+├── training/
+│
+├── tests/
+│
+├── Dockerfile
+├── docker-compose.yml
 ├── requirements.txt
-├── Dockerfile (optional)
-└── README.md
+├── README.md
+
 ```
+
 ---
 
 ⚙️ Installation
