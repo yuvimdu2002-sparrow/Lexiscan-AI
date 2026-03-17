@@ -1,0 +1,1322 @@
+[
+  {
+    "filename": "contract_001.pdf",
+    "text": "MASTER SERVICES AGREEMENT\n\nRECITALS\n\nThis MASTER SERVICES AGREEMENT (\"Agreement\") is entered into as of 2022-10-13 (\"Effective Date\") by and between Dynamo Ventures Corp. (\"Client\"), a limited liability company duly organised under applicable law, and Apex Capital Holdings LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2022-10-13 and shall continue in full force and effect until 2025-10-12 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $48,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $9,500.00 is payable upon execution of this Agreement. The total estimated contract value is $576,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $700.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. This Agreement may be cancelled by either party upon ninety (90) days advance written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of October 11, 2022.\n\n",
+    "entities": [
+      {
+        "text": "2022-10-13",
+        "label": "DATE",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "Dynamo Ventures Corp.",
+        "label": "PARTY",
+        "start": 149,
+        "end": 170
+      },
+      {
+        "text": "Apex Capital Holdings LLC",
+        "label": "PARTY",
+        "start": 252,
+        "end": 277
+      },
+      {
+        "text": "2025-10-12",
+        "label": "DATE",
+        "start": 526,
+        "end": 536
+      },
+      {
+        "text": "$48,000.00",
+        "label": "AMOUNT",
+        "start": 753,
+        "end": 763
+      },
+      {
+        "text": "$9,500.00",
+        "label": "AMOUNT",
+        "start": 852,
+        "end": 861
+      },
+      {
+        "text": "$576,000.00",
+        "label": "AMOUNT",
+        "start": 945,
+        "end": 956
+      },
+      {
+        "text": "$700.00",
+        "label": "AMOUNT",
+        "start": 1060,
+        "end": 1067
+      },
+      {
+        "text": "This Agreement may be cancelled by either party upon ninety (90) days advance written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1453,
+        "end": 1546
+      },
+      {
+        "text": "October 11, 2022",
+        "label": "DATE",
+        "start": 2626,
+        "end": 2642
+      }
+    ]
+  },
+  {
+    "filename": "contract_002.pdf",
+    "text": "MASTER SERVICES AGREEMENT\n\nRECITALS\n\nThis MASTER SERVICES AGREEMENT (\"Agreement\") is entered into as of 2024-10-31 (\"Effective Date\") by and between BlueStar Financial Group Inc. (\"Client\"), a limited liability company duly organised under applicable law, and Apex Capital Holdings LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Morrison & Foerster LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-10-31 and shall continue in full force and effect until 2027-10-31 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $40,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $4,000.00 is payable upon execution of this Agreement. The total estimated contract value is $486,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,700.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. This Agreement may be cancelled by either party upon ninety (90) days advance written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of October 30, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-10-31",
+        "label": "DATE",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "BlueStar Financial Group Inc.",
+        "label": "PARTY",
+        "start": 149,
+        "end": 178
+      },
+      {
+        "text": "Apex Capital Holdings LLC",
+        "label": "PARTY",
+        "start": 260,
+        "end": 285
+      },
+      {
+        "text": "2027-10-31",
+        "label": "DATE",
+        "start": 537,
+        "end": 547
+      },
+      {
+        "text": "$40,500.00",
+        "label": "AMOUNT",
+        "start": 764,
+        "end": 774
+      },
+      {
+        "text": "$4,000.00",
+        "label": "AMOUNT",
+        "start": 863,
+        "end": 872
+      },
+      {
+        "text": "$486,000.00",
+        "label": "AMOUNT",
+        "start": 956,
+        "end": 967
+      },
+      {
+        "text": "$2,700.00",
+        "label": "AMOUNT",
+        "start": 1071,
+        "end": 1080
+      },
+      {
+        "text": "This Agreement may be cancelled by either party upon ninety (90) days advance written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1466,
+        "end": 1559
+      },
+      {
+        "text": "October 30, 2024",
+        "label": "DATE",
+        "start": 2639,
+        "end": 2655
+      }
+    ]
+  },
+  {
+    "filename": "contract_003.pdf",
+    "text": "PROFESSIONAL SERVICES AGREEMENT\n\nRECITALS\n\nThis PROFESSIONAL SERVICES AGREEMENT (\"Agreement\") is entered into as of 2022-11-23 (\"Effective Date\") by and between Harborview Private Equity LLC (\"Client\"), a limited liability company duly organised under applicable law, and PinnacleCrest Capital Ltd. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Davis Polk & Wardwell LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2022-11-23 and shall continue in full force and effect until 2025-11-22 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $26,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $5,250.00 is payable upon execution of this Agreement. The total estimated contract value is $318,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $900.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of November 16, 2022.\n\n",
+    "entities": [
+      {
+        "text": "2022-11-23",
+        "label": "DATE",
+        "start": 116,
+        "end": 126
+      },
+      {
+        "text": "Harborview Private Equity LLC",
+        "label": "PARTY",
+        "start": 161,
+        "end": 190
+      },
+      {
+        "text": "PinnacleCrest Capital Ltd.",
+        "label": "PARTY",
+        "start": 272,
+        "end": 298
+      },
+      {
+        "text": "2025-11-22",
+        "label": "DATE",
+        "start": 552,
+        "end": 562
+      },
+      {
+        "text": "$26,500.00",
+        "label": "AMOUNT",
+        "start": 779,
+        "end": 789
+      },
+      {
+        "text": "$5,250.00",
+        "label": "AMOUNT",
+        "start": 878,
+        "end": 887
+      },
+      {
+        "text": "$318,000.00",
+        "label": "AMOUNT",
+        "start": 971,
+        "end": 982
+      },
+      {
+        "text": "$900.00",
+        "label": "AMOUNT",
+        "start": 1086,
+        "end": 1093
+      },
+      {
+        "text": "Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1479,
+        "end": 1588
+      },
+      {
+        "text": "November 16, 2022",
+        "label": "DATE",
+        "start": 2668,
+        "end": 2685
+      }
+    ]
+  },
+  {
+    "filename": "contract_004.pdf",
+    "text": "FINANCIAL ADVISORY AGREEMENT\n\nRECITALS\n\nThis FINANCIAL ADVISORY AGREEMENT (\"Agreement\") is entered into as of 2024-01-06 (\"Effective Date\") by and between Keystone Capital Management Inc. (\"Client\"), a limited liability company duly organised under applicable law, and Dynamo Ventures Corp. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Morrison & Foerster LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-01-06 and shall continue in full force and effect until 2026-01-05 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $21,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $1,500.00 is payable upon execution of this Agreement. The total estimated contract value is $258,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,800.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. In the event of a change of control of either party, the other party may terminate this Agreement within thirty (30) days.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of December 27, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2024-01-06",
+        "label": "DATE",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "Keystone Capital Management Inc.",
+        "label": "PARTY",
+        "start": 155,
+        "end": 187
+      },
+      {
+        "text": "Dynamo Ventures Corp.",
+        "label": "PARTY",
+        "start": 269,
+        "end": 290
+      },
+      {
+        "text": "2026-01-05",
+        "label": "DATE",
+        "start": 542,
+        "end": 552
+      },
+      {
+        "text": "$21,500.00",
+        "label": "AMOUNT",
+        "start": 769,
+        "end": 779
+      },
+      {
+        "text": "$1,500.00",
+        "label": "AMOUNT",
+        "start": 868,
+        "end": 877
+      },
+      {
+        "text": "$258,000.00",
+        "label": "AMOUNT",
+        "start": 961,
+        "end": 972
+      },
+      {
+        "text": "$2,800.00",
+        "label": "AMOUNT",
+        "start": 1076,
+        "end": 1085
+      },
+      {
+        "text": "In the event of a change of control of either party, the other party may terminate this Agreement within thirty (30) days.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1471,
+        "end": 1593
+      },
+      {
+        "text": "December 27, 2023",
+        "label": "DATE",
+        "start": 2673,
+        "end": 2690
+      }
+    ]
+  },
+  {
+    "filename": "contract_005.pdf",
+    "text": "CONSULTING AGREEMENT\n\nRECITALS\n\nThis CONSULTING AGREEMENT (\"Agreement\") is entered into as of 2023-08-24 (\"Effective Date\") by and between Riverside Law Associates LLC (\"Client\"), a limited liability company duly organised under applicable law, and Dynamo Ventures Corp. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Sullivan & Cromwell LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2023-08-24 and shall continue in full force and effect until 2026-08-23 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $28,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $4,000.00 is payable upon execution of this Agreement. The total estimated contract value is $336,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,700.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of August 14, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2023-08-24",
+        "label": "DATE",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "Riverside Law Associates LLC",
+        "label": "PARTY",
+        "start": 139,
+        "end": 167
+      },
+      {
+        "text": "Dynamo Ventures Corp.",
+        "label": "PARTY",
+        "start": 249,
+        "end": 270
+      },
+      {
+        "text": "2026-08-23",
+        "label": "DATE",
+        "start": 522,
+        "end": 532
+      },
+      {
+        "text": "$28,000.00",
+        "label": "AMOUNT",
+        "start": 749,
+        "end": 759
+      },
+      {
+        "text": "$4,000.00",
+        "label": "AMOUNT",
+        "start": 848,
+        "end": 857
+      },
+      {
+        "text": "$336,000.00",
+        "label": "AMOUNT",
+        "start": 941,
+        "end": 952
+      },
+      {
+        "text": "$2,700.00",
+        "label": "AMOUNT",
+        "start": 1056,
+        "end": 1065
+      },
+      {
+        "text": "Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1451,
+        "end": 1570
+      },
+      {
+        "text": "August 14, 2023",
+        "label": "DATE",
+        "start": 2646,
+        "end": 2661
+      }
+    ]
+  },
+  {
+    "filename": "contract_006.pdf",
+    "text": "CONSULTING AGREEMENT\n\nRECITALS\n\nThis CONSULTING AGREEMENT (\"Agreement\") is entered into as of 2022-07-26 (\"Effective Date\") by and between BlueStar Financial Group Inc. (\"Client\"), a limited liability company duly organised under applicable law, and Ironclad Technologies Corporation (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2022-07-26 and shall continue in full force and effect until 2024-07-25 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $34,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $6,750.00 is payable upon execution of this Agreement. The total estimated contract value is $408,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $1,000.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Upon a material breach, the non-breaching party may wind down and terminate this Agreement within fifteen (15) days of written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of July 21, 2022.\n\n",
+    "entities": [
+      {
+        "text": "2022-07-26",
+        "label": "DATE",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "BlueStar Financial Group Inc.",
+        "label": "PARTY",
+        "start": 139,
+        "end": 168
+      },
+      {
+        "text": "Ironclad Technologies Corporation",
+        "label": "PARTY",
+        "start": 250,
+        "end": 283
+      },
+      {
+        "text": "2024-07-25",
+        "label": "DATE",
+        "start": 532,
+        "end": 542
+      },
+      {
+        "text": "$34,000.00",
+        "label": "AMOUNT",
+        "start": 759,
+        "end": 769
+      },
+      {
+        "text": "$6,750.00",
+        "label": "AMOUNT",
+        "start": 858,
+        "end": 867
+      },
+      {
+        "text": "$408,000.00",
+        "label": "AMOUNT",
+        "start": 951,
+        "end": 962
+      },
+      {
+        "text": "$1,000.00",
+        "label": "AMOUNT",
+        "start": 1066,
+        "end": 1075
+      },
+      {
+        "text": "Upon a material breach, the non-breaching party may wind down and terminate this Agreement within fifteen (15) days of written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1461,
+        "end": 1595
+      },
+      {
+        "text": "July 21, 2022",
+        "label": "DATE",
+        "start": 2675,
+        "end": 2688
+      }
+    ]
+  },
+  {
+    "filename": "contract_007.pdf",
+    "text": "CONSULTING AGREEMENT\n\nRECITALS\n\nThis CONSULTING AGREEMENT (\"Agreement\") is entered into as of 2022-12-17 (\"Effective Date\") by and between Lakefront Holdings Group LLC (\"Client\"), a limited liability company duly organised under applicable law, and GlobalBridge Consulting Group Ltd. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2022-12-17 and shall continue in full force and effect until 2025-12-16 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $20,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $3,500.00 is payable upon execution of this Agreement. The total estimated contract value is $246,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $1,900.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. This Agreement may be cancelled by either party upon ninety (90) days advance written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of December 05, 2022.\n\n",
+    "entities": [
+      {
+        "text": "2022-12-17",
+        "label": "DATE",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "Lakefront Holdings Group LLC",
+        "label": "PARTY",
+        "start": 139,
+        "end": 167
+      },
+      {
+        "text": "GlobalBridge Consulting Group Ltd.",
+        "label": "PARTY",
+        "start": 249,
+        "end": 283
+      },
+      {
+        "text": "2025-12-16",
+        "label": "DATE",
+        "start": 532,
+        "end": 542
+      },
+      {
+        "text": "$20,500.00",
+        "label": "AMOUNT",
+        "start": 759,
+        "end": 769
+      },
+      {
+        "text": "$3,500.00",
+        "label": "AMOUNT",
+        "start": 858,
+        "end": 867
+      },
+      {
+        "text": "$246,000.00",
+        "label": "AMOUNT",
+        "start": 951,
+        "end": 962
+      },
+      {
+        "text": "$1,900.00",
+        "label": "AMOUNT",
+        "start": 1066,
+        "end": 1075
+      },
+      {
+        "text": "This Agreement may be cancelled by either party upon ninety (90) days advance written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1461,
+        "end": 1554
+      },
+      {
+        "text": "December 05, 2022",
+        "label": "DATE",
+        "start": 2630,
+        "end": 2647
+      }
+    ]
+  },
+  {
+    "filename": "contract_008.pdf",
+    "text": "SOFTWARE LICENSE AGREEMENT\n\nRECITALS\n\nThis SOFTWARE LICENSE AGREEMENT (\"Agreement\") is entered into as of 2023-04-15 (\"Effective Date\") by and between Ironclad Technologies Corporation (\"Client\"), a limited liability company duly organised under applicable law, and SilverOak Financial Consultants Ltd. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Skadden Arps Slate Meagher & Flom LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2023-04-15 and shall continue in full force and effect until 2024-04-14 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $25,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $7,250.00 is payable upon execution of this Agreement. The total estimated contract value is $300,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $1,300.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of April 02, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2023-04-15",
+        "label": "DATE",
+        "start": 106,
+        "end": 116
+      },
+      {
+        "text": "Ironclad Technologies Corporation",
+        "label": "PARTY",
+        "start": 151,
+        "end": 184
+      },
+      {
+        "text": "SilverOak Financial Consultants Ltd.",
+        "label": "PARTY",
+        "start": 266,
+        "end": 302
+      },
+      {
+        "text": "2024-04-14",
+        "label": "DATE",
+        "start": 568,
+        "end": 578
+      },
+      {
+        "text": "$25,000.00",
+        "label": "AMOUNT",
+        "start": 795,
+        "end": 805
+      },
+      {
+        "text": "$7,250.00",
+        "label": "AMOUNT",
+        "start": 894,
+        "end": 903
+      },
+      {
+        "text": "$300,000.00",
+        "label": "AMOUNT",
+        "start": 987,
+        "end": 998
+      },
+      {
+        "text": "$1,300.00",
+        "label": "AMOUNT",
+        "start": 1102,
+        "end": 1111
+      },
+      {
+        "text": "Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1497,
+        "end": 1616
+      },
+      {
+        "text": "April 02, 2023",
+        "label": "DATE",
+        "start": 2696,
+        "end": 2710
+      }
+    ]
+  },
+  {
+    "filename": "contract_009.pdf",
+    "text": "MASTER SERVICES AGREEMENT\n\nRECITALS\n\nThis MASTER SERVICES AGREEMENT (\"Agreement\") is entered into as of 2024-03-21 (\"Effective Date\") by and between GlobalBridge Consulting Group Ltd. (\"Client\"), a limited liability company duly organised under applicable law, and Titan Corporate Services Corp. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-03-21 and shall continue in full force and effect until 2027-03-21 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $14,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $5,000.00 is payable upon execution of this Agreement. The total estimated contract value is $168,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $900.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of March 13, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-03-21",
+        "label": "DATE",
+        "start": 104,
+        "end": 114
+      },
+      {
+        "text": "GlobalBridge Consulting Group Ltd.",
+        "label": "PARTY",
+        "start": 149,
+        "end": 183
+      },
+      {
+        "text": "Titan Corporate Services Corp.",
+        "label": "PARTY",
+        "start": 265,
+        "end": 295
+      },
+      {
+        "text": "2027-03-21",
+        "label": "DATE",
+        "start": 544,
+        "end": 554
+      },
+      {
+        "text": "$14,000.00",
+        "label": "AMOUNT",
+        "start": 771,
+        "end": 781
+      },
+      {
+        "text": "$5,000.00",
+        "label": "AMOUNT",
+        "start": 870,
+        "end": 879
+      },
+      {
+        "text": "$168,000.00",
+        "label": "AMOUNT",
+        "start": 963,
+        "end": 974
+      },
+      {
+        "text": "$900.00",
+        "label": "AMOUNT",
+        "start": 1078,
+        "end": 1085
+      },
+      {
+        "text": "Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1471,
+        "end": 1580
+      },
+      {
+        "text": "March 13, 2024",
+        "label": "DATE",
+        "start": 2657,
+        "end": 2671
+      }
+    ]
+  },
+  {
+    "filename": "contract_010.pdf",
+    "text": "PARTNERSHIP AGREEMENT\n\nRECITALS\n\nThis PARTNERSHIP AGREEMENT (\"Agreement\") is entered into as of 2024-03-28 (\"Effective Date\") by and between Riverside Law Associates LLC (\"Client\"), a limited liability company duly organised under applicable law, and SilverOak Financial Consultants Ltd. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-03-28 and shall continue in full force and effect until 2026-03-28 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $13,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $9,000.00 is payable upon execution of this Agreement. The total estimated contract value is $162,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,000.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of March 24, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-03-28",
+        "label": "DATE",
+        "start": 96,
+        "end": 106
+      },
+      {
+        "text": "Riverside Law Associates LLC",
+        "label": "PARTY",
+        "start": 141,
+        "end": 169
+      },
+      {
+        "text": "SilverOak Financial Consultants Ltd.",
+        "label": "PARTY",
+        "start": 251,
+        "end": 287
+      },
+      {
+        "text": "2026-03-28",
+        "label": "DATE",
+        "start": 536,
+        "end": 546
+      },
+      {
+        "text": "$13,500.00",
+        "label": "AMOUNT",
+        "start": 763,
+        "end": 773
+      },
+      {
+        "text": "$9,000.00",
+        "label": "AMOUNT",
+        "start": 862,
+        "end": 871
+      },
+      {
+        "text": "$162,000.00",
+        "label": "AMOUNT",
+        "start": 955,
+        "end": 966
+      },
+      {
+        "text": "$2,000.00",
+        "label": "AMOUNT",
+        "start": 1070,
+        "end": 1079
+      },
+      {
+        "text": "Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1465,
+        "end": 1584
+      },
+      {
+        "text": "March 24, 2024",
+        "label": "DATE",
+        "start": 2661,
+        "end": 2675
+      }
+    ]
+  },
+  {
+    "filename": "contract_011.pdf",
+    "text": "NON-DISCLOSURE AGREEMENT\n\nRECITALS\n\nThis NON-DISCLOSURE AGREEMENT (\"Agreement\") is entered into as of 2022-05-11 (\"Effective Date\") by and between BlueStar Financial Group Inc. (\"Client\"), a limited liability company duly organised under applicable law, and EagleRock Asset Management LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Skadden Arps Slate Meagher & Flom LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2022-05-11 and shall continue in full force and effect until 2024-05-10 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $43,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $8,250.00 is payable upon execution of this Agreement. The total estimated contract value is $516,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,100.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Either party may dissolve this Agreement without cause upon sixty (60) days written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of May 04, 2022.\n\n",
+    "entities": [
+      {
+        "text": "2022-05-11",
+        "label": "DATE",
+        "start": 102,
+        "end": 112
+      },
+      {
+        "text": "BlueStar Financial Group Inc.",
+        "label": "PARTY",
+        "start": 147,
+        "end": 176
+      },
+      {
+        "text": "EagleRock Asset Management LLC",
+        "label": "PARTY",
+        "start": 258,
+        "end": 288
+      },
+      {
+        "text": "2024-05-10",
+        "label": "DATE",
+        "start": 554,
+        "end": 564
+      },
+      {
+        "text": "$43,000.00",
+        "label": "AMOUNT",
+        "start": 781,
+        "end": 791
+      },
+      {
+        "text": "$8,250.00",
+        "label": "AMOUNT",
+        "start": 880,
+        "end": 889
+      },
+      {
+        "text": "$516,000.00",
+        "label": "AMOUNT",
+        "start": 973,
+        "end": 984
+      },
+      {
+        "text": "$2,100.00",
+        "label": "AMOUNT",
+        "start": 1088,
+        "end": 1097
+      },
+      {
+        "text": "Either party may dissolve this Agreement without cause upon sixty (60) days written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1483,
+        "end": 1574
+      },
+      {
+        "text": "May 04, 2022",
+        "label": "DATE",
+        "start": 2651,
+        "end": 2663
+      }
+    ]
+  },
+  {
+    "filename": "contract_012.pdf",
+    "text": "ENGAGEMENT LETTER\n\nRECITALS\n\nThis ENGAGEMENT LETTER (\"Agreement\") is entered into as of 2023-11-28 (\"Effective Date\") by and between Riverside Law Associates LLC (\"Client\"), a limited liability company duly organised under applicable law, and Apex Capital Holdings LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Morrison & Foerster LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2023-11-28 and shall continue in full force and effect until 2024-11-27 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $32,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $3,500.00 is payable upon execution of this Agreement. The total estimated contract value is $390,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $1,900.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Either party may terminate this Agreement upon thirty (30) days prior written notice to the other party.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of November 23, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2023-11-28",
+        "label": "DATE",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Riverside Law Associates LLC",
+        "label": "PARTY",
+        "start": 133,
+        "end": 161
+      },
+      {
+        "text": "Apex Capital Holdings LLC",
+        "label": "PARTY",
+        "start": 243,
+        "end": 268
+      },
+      {
+        "text": "2024-11-27",
+        "label": "DATE",
+        "start": 520,
+        "end": 530
+      },
+      {
+        "text": "$32,500.00",
+        "label": "AMOUNT",
+        "start": 747,
+        "end": 757
+      },
+      {
+        "text": "$3,500.00",
+        "label": "AMOUNT",
+        "start": 846,
+        "end": 855
+      },
+      {
+        "text": "$390,000.00",
+        "label": "AMOUNT",
+        "start": 939,
+        "end": 950
+      },
+      {
+        "text": "$1,900.00",
+        "label": "AMOUNT",
+        "start": 1054,
+        "end": 1063
+      },
+      {
+        "text": "Either party may terminate this Agreement upon thirty (30) days prior written notice to the other party.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1449,
+        "end": 1553
+      },
+      {
+        "text": "November 23, 2023",
+        "label": "DATE",
+        "start": 2635,
+        "end": 2652
+      }
+    ]
+  },
+  {
+    "filename": "contract_013.pdf",
+    "text": "ENGAGEMENT LETTER\n\nRECITALS\n\nThis ENGAGEMENT LETTER (\"Agreement\") is entered into as of 2023-09-04 (\"Effective Date\") by and between Ironclad Technologies Corporation (\"Client\"), a limited liability company duly organised under applicable law, and Riverside Law Associates LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Skadden Arps Slate Meagher & Flom LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2023-09-04 and shall continue in full force and effect until 2026-09-03 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $43,500.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $4,000.00 is payable upon execution of this Agreement. The total estimated contract value is $522,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $900.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Upon a material breach, the non-breaching party may wind down and terminate this Agreement within fifteen (15) days of written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of August 26, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2023-09-04",
+        "label": "DATE",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Ironclad Technologies Corporation",
+        "label": "PARTY",
+        "start": 133,
+        "end": 166
+      },
+      {
+        "text": "Riverside Law Associates LLC",
+        "label": "PARTY",
+        "start": 248,
+        "end": 276
+      },
+      {
+        "text": "2026-09-03",
+        "label": "DATE",
+        "start": 542,
+        "end": 552
+      },
+      {
+        "text": "$43,500.00",
+        "label": "AMOUNT",
+        "start": 769,
+        "end": 779
+      },
+      {
+        "text": "$4,000.00",
+        "label": "AMOUNT",
+        "start": 868,
+        "end": 877
+      },
+      {
+        "text": "$522,000.00",
+        "label": "AMOUNT",
+        "start": 961,
+        "end": 972
+      },
+      {
+        "text": "$900.00",
+        "label": "AMOUNT",
+        "start": 1076,
+        "end": 1083
+      },
+      {
+        "text": "Upon a material breach, the non-breaching party may wind down and terminate this Agreement within fifteen (15) days of written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1469,
+        "end": 1603
+      },
+      {
+        "text": "August 26, 2023",
+        "label": "DATE",
+        "start": 2683,
+        "end": 2698
+      }
+    ]
+  },
+  {
+    "filename": "contract_014.pdf",
+    "text": "SERVICES AGREEMENT\n\nRECITALS\n\nThis SERVICES AGREEMENT (\"Agreement\") is entered into as of 2023-10-26 (\"Effective Date\") by and between Frontier Investment Partners Inc. (\"Client\"), a limited liability company duly organised under applicable law, and SilverOak Financial Consultants Ltd. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Davis Polk & Wardwell LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2023-10-26 and shall continue in full force and effect until 2025-10-25 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $12,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $6,750.00 is payable upon execution of this Agreement. The total estimated contract value is $144,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $1,400.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of October 25, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2023-10-26",
+        "label": "DATE",
+        "start": 90,
+        "end": 100
+      },
+      {
+        "text": "Frontier Investment Partners Inc.",
+        "label": "PARTY",
+        "start": 135,
+        "end": 168
+      },
+      {
+        "text": "SilverOak Financial Consultants Ltd.",
+        "label": "PARTY",
+        "start": 250,
+        "end": 286
+      },
+      {
+        "text": "2025-10-25",
+        "label": "DATE",
+        "start": 540,
+        "end": 550
+      },
+      {
+        "text": "$12,000.00",
+        "label": "AMOUNT",
+        "start": 767,
+        "end": 777
+      },
+      {
+        "text": "$6,750.00",
+        "label": "AMOUNT",
+        "start": 866,
+        "end": 875
+      },
+      {
+        "text": "$144,000.00",
+        "label": "AMOUNT",
+        "start": 959,
+        "end": 970
+      },
+      {
+        "text": "$1,400.00",
+        "label": "AMOUNT",
+        "start": 1074,
+        "end": 1083
+      },
+      {
+        "text": "Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1469,
+        "end": 1578
+      },
+      {
+        "text": "October 25, 2023",
+        "label": "DATE",
+        "start": 2654,
+        "end": 2670
+      }
+    ]
+  },
+  {
+    "filename": "contract_015.pdf",
+    "text": "CONSULTING AGREEMENT\n\nRECITALS\n\nThis CONSULTING AGREEMENT (\"Agreement\") is entered into as of 2024-09-22 (\"Effective Date\") by and between BlueStar Financial Group Inc. (\"Client\"), a limited liability company duly organised under applicable law, and Ironclad Technologies Corporation (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Davis Polk & Wardwell LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-09-22 and shall continue in full force and effect until 2025-09-22 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $39,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $3,000.00 is payable upon execution of this Agreement. The total estimated contract value is $468,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $900.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. In the event of a change of control of either party, the other party may terminate this Agreement within thirty (30) days.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of September 09, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-09-22",
+        "label": "DATE",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "BlueStar Financial Group Inc.",
+        "label": "PARTY",
+        "start": 139,
+        "end": 168
+      },
+      {
+        "text": "Ironclad Technologies Corporation",
+        "label": "PARTY",
+        "start": 250,
+        "end": 283
+      },
+      {
+        "text": "2025-09-22",
+        "label": "DATE",
+        "start": 537,
+        "end": 547
+      },
+      {
+        "text": "$39,000.00",
+        "label": "AMOUNT",
+        "start": 764,
+        "end": 774
+      },
+      {
+        "text": "$3,000.00",
+        "label": "AMOUNT",
+        "start": 863,
+        "end": 872
+      },
+      {
+        "text": "$468,000.00",
+        "label": "AMOUNT",
+        "start": 956,
+        "end": 967
+      },
+      {
+        "text": "$900.00",
+        "label": "AMOUNT",
+        "start": 1071,
+        "end": 1078
+      },
+      {
+        "text": "In the event of a change of control of either party, the other party may terminate this Agreement within thirty (30) days.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1464,
+        "end": 1586
+      },
+      {
+        "text": "September 09, 2024",
+        "label": "DATE",
+        "start": 2666,
+        "end": 2684
+      }
+    ]
+  },
+  {
+    "filename": "contract_016.pdf",
+    "text": "ENGAGEMENT LETTER\n\nRECITALS\n\nThis ENGAGEMENT LETTER (\"Agreement\") is entered into as of 2024-05-16 (\"Effective Date\") by and between Riverside Law Associates LLC (\"Client\"), a limited liability company duly organised under applicable law, and Frontier Investment Partners Inc. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-05-16 and shall continue in full force and effect until 2025-05-16 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $49,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $4,000.00 is payable upon execution of this Agreement. The total estimated contract value is $588,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,700.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Either party may dissolve this Agreement without cause upon sixty (60) days written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of May 07, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-05-16",
+        "label": "DATE",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Riverside Law Associates LLC",
+        "label": "PARTY",
+        "start": 133,
+        "end": 161
+      },
+      {
+        "text": "Frontier Investment Partners Inc.",
+        "label": "PARTY",
+        "start": 243,
+        "end": 276
+      },
+      {
+        "text": "2025-05-16",
+        "label": "DATE",
+        "start": 525,
+        "end": 535
+      },
+      {
+        "text": "$49,000.00",
+        "label": "AMOUNT",
+        "start": 752,
+        "end": 762
+      },
+      {
+        "text": "$4,000.00",
+        "label": "AMOUNT",
+        "start": 851,
+        "end": 860
+      },
+      {
+        "text": "$588,000.00",
+        "label": "AMOUNT",
+        "start": 944,
+        "end": 955
+      },
+      {
+        "text": "$2,700.00",
+        "label": "AMOUNT",
+        "start": 1059,
+        "end": 1068
+      },
+      {
+        "text": "Either party may dissolve this Agreement without cause upon sixty (60) days written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1454,
+        "end": 1545
+      },
+      {
+        "text": "May 07, 2024",
+        "label": "DATE",
+        "start": 2621,
+        "end": 2633
+      }
+    ]
+  },
+  {
+    "filename": "contract_017.pdf",
+    "text": "ENGAGEMENT LETTER\n\nRECITALS\n\nThis ENGAGEMENT LETTER (\"Agreement\") is entered into as of 2022-09-05 (\"Effective Date\") by and between Meridian Investment Advisors Corp. (\"Client\"), a limited liability company duly organised under applicable law, and Lakefront Holdings Group LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Sullivan & Cromwell LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2022-09-05 and shall continue in full force and effect until 2023-09-05 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $9,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $6,250.00 is payable upon execution of this Agreement. The total estimated contract value is $108,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $500.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of September 01, 2022.\n\n",
+    "entities": [
+      {
+        "text": "2022-09-05",
+        "label": "DATE",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Meridian Investment Advisors Corp.",
+        "label": "PARTY",
+        "start": 133,
+        "end": 167
+      },
+      {
+        "text": "Lakefront Holdings Group LLC",
+        "label": "PARTY",
+        "start": 249,
+        "end": 277
+      },
+      {
+        "text": "2023-09-05",
+        "label": "DATE",
+        "start": 529,
+        "end": 539
+      },
+      {
+        "text": "$9,000.00",
+        "label": "AMOUNT",
+        "start": 756,
+        "end": 765
+      },
+      {
+        "text": "$6,250.00",
+        "label": "AMOUNT",
+        "start": 854,
+        "end": 863
+      },
+      {
+        "text": "$108,000.00",
+        "label": "AMOUNT",
+        "start": 947,
+        "end": 958
+      },
+      {
+        "text": "$500.00",
+        "label": "AMOUNT",
+        "start": 1062,
+        "end": 1069
+      },
+      {
+        "text": "Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1455,
+        "end": 1564
+      },
+      {
+        "text": "September 01, 2022",
+        "label": "DATE",
+        "start": 2641,
+        "end": 2659
+      }
+    ]
+  },
+  {
+    "filename": "contract_018.pdf",
+    "text": "CONSULTING AGREEMENT\n\nRECITALS\n\nThis CONSULTING AGREEMENT (\"Agreement\") is entered into as of 2023-04-14 (\"Effective Date\") by and between SilverOak Financial Consultants Ltd. (\"Client\"), a limited liability company duly organised under applicable law, and Harborview Private Equity LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Morrison & Foerster LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2023-04-14 and shall continue in full force and effect until 2024-04-13 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $26,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $2,000.00 is payable upon execution of this Agreement. The total estimated contract value is $312,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $2,100.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of April 13, 2023.\n\n",
+    "entities": [
+      {
+        "text": "2023-04-14",
+        "label": "DATE",
+        "start": 94,
+        "end": 104
+      },
+      {
+        "text": "SilverOak Financial Consultants Ltd.",
+        "label": "PARTY",
+        "start": 139,
+        "end": 175
+      },
+      {
+        "text": "Harborview Private Equity LLC",
+        "label": "PARTY",
+        "start": 257,
+        "end": 286
+      },
+      {
+        "text": "2024-04-13",
+        "label": "DATE",
+        "start": 538,
+        "end": 548
+      },
+      {
+        "text": "$26,000.00",
+        "label": "AMOUNT",
+        "start": 765,
+        "end": 775
+      },
+      {
+        "text": "$2,000.00",
+        "label": "AMOUNT",
+        "start": 864,
+        "end": 873
+      },
+      {
+        "text": "$312,000.00",
+        "label": "AMOUNT",
+        "start": 957,
+        "end": 968
+      },
+      {
+        "text": "$2,100.00",
+        "label": "AMOUNT",
+        "start": 1072,
+        "end": 1081
+      },
+      {
+        "text": "Provider may terminate with immediate effect in the event of Client's default, insolvency, or failure to pay.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1467,
+        "end": 1576
+      },
+      {
+        "text": "April 13, 2023",
+        "label": "DATE",
+        "start": 2656,
+        "end": 2670
+      }
+    ]
+  },
+  {
+    "filename": "contract_019.pdf",
+    "text": "ENGAGEMENT LETTER\n\nRECITALS\n\nThis ENGAGEMENT LETTER (\"Agreement\") is entered into as of 2024-08-26 (\"Effective Date\") by and between Ironclad Technologies Corporation (\"Client\"), a limited liability company duly organised under applicable law, and Quantum Analytics Group Inc. (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Skadden Arps Slate Meagher & Flom LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-08-26 and shall continue in full force and effect until 2025-08-26 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $35,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $7,500.00 is payable upon execution of this Agreement. The total estimated contract value is $420,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $1,100.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of August 13, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-08-26",
+        "label": "DATE",
+        "start": 88,
+        "end": 98
+      },
+      {
+        "text": "Ironclad Technologies Corporation",
+        "label": "PARTY",
+        "start": 133,
+        "end": 166
+      },
+      {
+        "text": "Quantum Analytics Group Inc.",
+        "label": "PARTY",
+        "start": 248,
+        "end": 276
+      },
+      {
+        "text": "2025-08-26",
+        "label": "DATE",
+        "start": 542,
+        "end": 552
+      },
+      {
+        "text": "$35,000.00",
+        "label": "AMOUNT",
+        "start": 769,
+        "end": 779
+      },
+      {
+        "text": "$7,500.00",
+        "label": "AMOUNT",
+        "start": 868,
+        "end": 877
+      },
+      {
+        "text": "$420,000.00",
+        "label": "AMOUNT",
+        "start": 961,
+        "end": 972
+      },
+      {
+        "text": "$1,100.00",
+        "label": "AMOUNT",
+        "start": 1076,
+        "end": 1085
+      },
+      {
+        "text": "Client may cancel this Agreement immediately upon written notice if Provider materially breaches any obligation herein.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1471,
+        "end": 1590
+      },
+      {
+        "text": "August 13, 2024",
+        "label": "DATE",
+        "start": 2670,
+        "end": 2685
+      }
+    ]
+  },
+  {
+    "filename": "contract_020.pdf",
+    "text": "FINANCIAL ADVISORY AGREEMENT\n\nRECITALS\n\nThis FINANCIAL ADVISORY AGREEMENT (\"Agreement\") is entered into as of 2024-08-14 (\"Effective Date\") by and between Dynamo Ventures Corp. (\"Client\"), a limited liability company duly organised under applicable law, and OceanWave Partners LLC (\"Provider\"), a corporation duly organised under applicable law. This Agreement is prepared with the assistance of Latham & Watkins LLP.\n\n1. TERM\n\nThe term of this Agreement commences on 2024-08-14 and shall continue in full force and effect until 2027-08-14 (\"Expiration Date\"), unless sooner terminated in accordance with the provisions hereof.\n\n2. FEES AND PAYMENT\n\nIn consideration for the services rendered hereunder, Client shall pay Provider a monthly retainer fee of $48,000.00 USD, due on the first business day of each calendar month. A one-time onboarding fee of $2,500.00 is payable upon execution of this Agreement. The total estimated contract value is $576,000.00 USD for the initial term. Invoices not paid within thirty (30) days shall accrue a late payment fee of $600.00 per month.\n\n3. SCOPE OF SERVICES\n\nProvider agrees to deliver professional services as mutually agreed upon in writing from time to time by the parties. Provider shall assign qualified personnel with the relevant expertise to perform all services. Any additional services outside the scope hereof shall be separately scoped and priced.\n\n4. TERMINATION\n\n4.1 Termination for Convenience. This Agreement may be cancelled by either party upon ninety (90) days advance written notice.\n\n4.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches this Agreement and fails to cure such breach within ten (10) days after receiving written notice thereof. Upon expiration or termination, all outstanding payment obligations shall become immediately due and payable.\n\n5. CONFIDENTIALITY\n\nEach party agrees to hold all Confidential Information of the other party in strict confidence and not to disclose such information to any third party without prior written consent. This obligation of confidentiality shall survive termination or expiration of this Agreement for a period of five (5) years.\n\n6. GOVERNING LAW\n\nThis Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of law provisions. Any dispute arising hereunder shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association.\n\nSIGNATURE\n\nIN WITNESS WHEREOF, the parties have executed this Agreement as of August 13, 2024.\n\n",
+    "entities": [
+      {
+        "text": "2024-08-14",
+        "label": "DATE",
+        "start": 110,
+        "end": 120
+      },
+      {
+        "text": "Dynamo Ventures Corp.",
+        "label": "PARTY",
+        "start": 155,
+        "end": 176
+      },
+      {
+        "text": "OceanWave Partners LLC",
+        "label": "PARTY",
+        "start": 258,
+        "end": 280
+      },
+      {
+        "text": "2027-08-14",
+        "label": "DATE",
+        "start": 529,
+        "end": 539
+      },
+      {
+        "text": "$48,000.00",
+        "label": "AMOUNT",
+        "start": 756,
+        "end": 766
+      },
+      {
+        "text": "$2,500.00",
+        "label": "AMOUNT",
+        "start": 855,
+        "end": 864
+      },
+      {
+        "text": "$576,000.00",
+        "label": "AMOUNT",
+        "start": 948,
+        "end": 959
+      },
+      {
+        "text": "$600.00",
+        "label": "AMOUNT",
+        "start": 1063,
+        "end": 1070
+      },
+      {
+        "text": "This Agreement may be cancelled by either party upon ninety (90) days advance written notice.",
+        "label": "TERMINATION_CLAUSE",
+        "start": 1456,
+        "end": 1549
+      },
+      {
+        "text": "August 13, 2024",
+        "label": "DATE",
+        "start": 2626,
+        "end": 2641
+      }
+    ]
+  }
+]
