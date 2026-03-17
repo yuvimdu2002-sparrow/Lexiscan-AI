@@ -23,6 +23,8 @@ A complete Legal Named Entity Recognition (NER) system that extracts key informa
 
 🏗️ Project Structure
 
+```text
+
 legal-ner-system/
 │
 ├── app/
@@ -39,15 +41,14 @@ legal-ner-system/
 ├── requirements.txt
 ├── Dockerfile (optional)
 └── README.md
-
+```
 ---
 
 ⚙️ Installation
 
 1. Clone repository
 
-git clone https://github.com/your-username/legal-ner-system.git
-cd legal-ner-system
+git clone https://github.com/yuvimdu2002-sparrow/Lexiscan-AI
 
 2. Create virtual environment
 
